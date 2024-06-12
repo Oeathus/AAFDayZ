@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <damage min="0.30" max="0.75" />
+	<type name="AssaultBag_Ttsko">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="AssaultBag_Black">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="AssaultBag_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="DryBag_Orange">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="DryBag_Yellow">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="DryBag_Blue">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="DryBag_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="DryBag_Black">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="DryBag_Red">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="HuntingBag">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsIndustrial" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="MountainBag_Red">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="MountainBag_Blue">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="MountainBag_Orange">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="MountainBag_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="SmershBag">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="ChildBag_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="ChildBag_Red">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="ChildBag_Blue">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+	</type>
+	<type name="TaloonBag_Blue">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TaloonBag_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TaloonBag_Orange">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TaloonBag_Violet">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="TortillaBag">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="ArmyPouch_Beige">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="ArmyPouch_Black">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="ArmyPouch_Camo">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="ArmyPouch_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixHunter" />
+	</type>
+	<type name="CanvasBag_Olive">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="CanvasBag_Medical">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.6">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="IodineTincture" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="0.2">
+			<item name="VitaminBottle" />
+		</cargo>
+	</type>
+	<type name="Slingbag_Black">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="SlingBag_Gray">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="SlingBag_Brown">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodVillage" />
+		<cargo preset="mixVillage" />
+	</type>
+	<type name="HipPack_Black">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.6">
+			<item name="Zagorky" />
+		</cargo>
+		<cargo chance="0.4">
+			<item name="ChernarusMap" />
+		</cargo>
+	</type>
+	<type name="HipPack_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.6">
+			<item name="Zagorky" />
+		</cargo>
+		<cargo chance="0.4">
+			<item name="ChernarusMap" />
+		</cargo>
+	</type>
+	<type name="HipPack_Medical">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.6">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="0.6">
+			<item name="VitaminBottle" />
+		</cargo>
+	</type>
+	<type name="HipPack_Party">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.02">
+			<item name="Derringer_Pink" />
+		</cargo>
+	</type>
+	<type name="DuffelBagSmall_Camo">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="DuffelBagSmall_Medical">
+		<damage min="0.3" max="0.7" />
+		<cargo chance="0.8">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="AntiChemInjector" />
+		</cargo>
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="DuffelBagSmall_Green">
+		<damage min="0.3" max="0.7" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+</spawnabletypes>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
-<spawnabletypes>
-  <damage min="0.30" max="0.75" />
-  <!--			Pokemon			-->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!--			Pokemon			-->
     <type name="PokemonCard_SealedBox1">
         <lifetime>21600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -24,8 +22,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="PokemonCard_Box1">
-        <lifetime>21600</lifetime>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Military"/>
+        <usage name="Underground"/>
     </type>
     <type name="PokemonCard_Box2">
         <lifetime>21600</lifetime>
@@ -44,8 +51,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="PokemonCard_Box1s">
-        <lifetime>21600</lifetime>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Military"/>
+        <usage name="Underground"/>
     </type>
     <type name="PokemonCard_Box2s">
         <lifetime>21600</lifetime>
@@ -64,8 +80,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="PokemonCard_Box1i">
-        <lifetime>21600</lifetime>
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Military"/>
+        <usage name="Underground"/>
     </type>
     <type name="PokemonCard_Box2i">
         <lifetime>21600</lifetime>
@@ -787,4 +812,4 @@
         <lifetime>21600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-</spawnabletypes>
+</types>

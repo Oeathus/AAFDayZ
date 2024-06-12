@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+    <damage min="0.30" max="0.75" />
+    
+    <type name="PokemonCard_SealedBox1">
+    </type>
+    <type name="PokemonCard_SealedBox2">
+    </type>
+    <type name="PokemonCard_SealedBox3">
+    </type>
+    <type name="PokemonCard_SealedBox4">
+    </type>
+    <type name="PokemonCard_SealedBox5">
+    </type>
+    <type name="PokemonCard_Box1">
+    </type>
+    <type name="PokemonCard_Box2">
+    </type>
+    <type name="PokemonCard_Box3">
+    </type>
+    <type name="PokemonCard_Box4">
+    </type>
+    <type name="PokemonCard_Box5">
+    </type>
+    <type name="PokemonCard_Box1s">
+    </type>
+    <type name="PokemonCard_Box2s">
+    </type>
+    <type name="PokemonCard_Box3s">
+    </type>
+    <type name="PokemonCard_Box4s">
+    </type>
+    <type name="PokemonCard_Box5s">
+    </type>
+    <type name="PokemonCard_Box1i">
+    </type>
+    <type name="PokemonCard_Box2i">
+    </type>
+    <type name="PokemonCard_Box3i">
+    </type>
+    <type name="PokemonCard_Box4i">
+    </type>
+    <type name="PokemonCard_Box5i">
+    </type>
+    <type name="PokemonBooster001_1">
+    </type>
+    <type name="PokemonBooster002_1">
+    </type>
+    <type name="PokemonBooster003_1">
+    </type>
+    <type name="PokemonBooster001_3">
+    </type>
+    <type name="PokemonBooster002_3">
+    </type>
+    <type name="PokemonBooster003_3">
+    </type>
+    <type name="PokemonBooster001_5">
+    </type>
+    <type name="PokemonBooster002_5">
+    </type>
+    <type name="PokemonBooster003_5">
+    </type>
+    <type name="PokemonEnergy1">
+    </type>
+    <type name="PokemonEnergy2">
+    </type>
+    <type name="PokemonEnergy3">
+    </type>
+    <type name="PokemonEnergy4">
+    </type>
+    <type name="PokemonEnergy5">
+    </type>
+    <type name="PokemonEnergy6">
+    </type>
+    <type name="PokemonEnergy7">
+    </type>
+    <type name="PokemonEnergy8">
+    </type>
+    <type name="PokemonTrainer1">
+    </type>
+    <type name="PokemonTrainer2">
+    </type>
+    <type name="PokemonTrainer3">
+    </type>
+    <type name="PokemonTrainer4">
+    </type>
+    <type name="PokemonTrainer5">
+    </type>
+    <type name="PokemonTrainer6">
+    </type>
+    <type name="PokemonTrainer7">
+    </type>
+    <type name="PokemonTrainer8">
+    </type>
+    <type name="Pokemoncard001">
+    </type>
+    <type name="Pokemoncard002">
+    </type>
+    <type name="Pokemoncard003">
+    </type>
+    <type name="Pokemoncard004">
+    </type>
+    <type name="Pokemoncard005">
+    </type>
+    <type name="Pokemoncard006">
+    </type>
+    <type name="Pokemoncard007">
+    </type>
+    <type name="Pokemoncard008">
+    </type>
+    <type name="Pokemoncard009">
+    </type>
+    <type name="Pokemoncard010">
+    </type>
+    <type name="Pokemoncard011">
+    </type>
+    <type name="Pokemoncard012">
+    </type>
+    <type name="Pokemoncard013">
+    </type>
+    <type name="Pokemoncard014">
+    </type>
+    <type name="Pokemoncard015">
+    </type>
+    <type name="Pokemoncard016">
+    </type>
+    <type name="Pokemoncard017">
+    </type>
+    <type name="Pokemoncard018">
+    </type>
+    <type name="Pokemoncard019">
+    </type>
+    <type name="Pokemoncard020">
+    </type>
+    <type name="Pokemoncard021">
+    </type>
+    <type name="Pokemoncard022">
+    </type>
+    <type name="Pokemoncard023">
+    </type>
+    <type name="Pokemoncard024">
+    </type>
+    <type name="Pokemoncard025">
+    </type>
+    <type name="Pokemoncard026">
+    </type>
+    <type name="Pokemoncard027">
+    </type>
+    <type name="Pokemoncard028">
+    </type>
+    <type name="Pokemoncard029">
+    </type>
+    <type name="Pokemoncard030">
+    </type>
+    <type name="Pokemoncard031">
+    </type>
+    <type name="Pokemoncard032">
+    </type>
+    <type name="Pokemoncard033">
+    </type>
+    <type name="Pokemoncard034">
+    </type>
+    <type name="Pokemoncard035">
+    </type>
+    <type name="Pokemoncard036">
+    </type>
+    <type name="Pokemoncard037">
+    </type>
+    <type name="Pokemoncard038">
+    </type>
+    <type name="Pokemoncard039">
+    </type>
+    <type name="Pokemoncard040">
+    </type>
+    <type name="Pokemoncard041">
+    </type>
+    <type name="Pokemoncard042">
+    </type>
+    <type name="Pokemoncard043">
+    </type>
+    <type name="Pokemoncard044">
+    </type>
+    <type name="Pokemoncard045">
+    </type>
+    <type name="Pokemoncard046">
+    </type>
+    <type name="Pokemoncard047">
+    </type>
+    <type name="Pokemoncard048">
+    </type>
+    <type name="Pokemoncard049">
+    </type>
+    <type name="Pokemoncard050">
+    </type>
+    <type name="Pokemoncard051">
+    </type>
+    <type name="Pokemoncard052">
+    </type>
+    <type name="Pokemoncard053">
+    </type>
+    <type name="Pokemoncard054">
+    </type>
+    <type name="Pokemoncard055">
+    </type>
+    <type name="Pokemoncard056">
+    </type>
+    <type name="Pokemoncard057">
+    </type>
+    <type name="Pokemoncard058">
+    </type>
+    <type name="Pokemoncard059">
+    </type>
+    <type name="Pokemoncard060">
+    </type>
+    <type name="Pokemoncard061">
+    </type>
+    <type name="Pokemoncard062">
+    </type>
+    <type name="Pokemoncard063">
+    </type>
+    <type name="Pokemoncard064">
+    </type>
+    <type name="Pokemoncard065">
+    </type>
+    <type name="Pokemoncard066">
+    </type>
+    <type name="Pokemoncard067">
+    </type>
+    <type name="Pokemoncard068">
+    </type>
+    <type name="Pokemoncard069">
+    </type>
+    <type name="Pokemoncard070">
+    </type>
+    <type name="Pokemoncard071">
+    </type>
+    <type name="Pokemoncard072">
+    </type>
+    <type name="Pokemoncard073">
+    </type>
+    <type name="Pokemoncard074">
+    </type>
+    <type name="Pokemoncard075">
+    </type>
+    <type name="Pokemoncard076">
+    </type>
+    <type name="Pokemoncard077">
+    </type>
+    <type name="Pokemoncard078">
+    </type>
+    <type name="Pokemoncard079">
+    </type>
+    <type name="Pokemoncard080">
+    </type>
+    <type name="Pokemoncard081">
+    </type>
+    <type name="Pokemoncard082">
+    </type>
+    <type name="Pokemoncard083">
+    </type>
+    <type name="Pokemoncard084">
+    </type>
+    <type name="Pokemoncard085">
+    </type>
+    <type name="Pokemoncard086">
+    </type>
+    <type name="Pokemoncard087">
+    </type>
+    <type name="Pokemoncard088">
+    </type>
+    <type name="Pokemoncard089">
+    </type>
+    <type name="Pokemoncard090">
+    </type>
+    <type name="Pokemoncard091">
+    </type>
+    <type name="Pokemoncard092">
+    </type>
+    <type name="Pokemoncard093">
+    </type>
+    <type name="Pokemoncard094">
+    </type>
+    <type name="Pokemoncard095">
+    </type>
+    <type name="Pokemoncard096">
+    </type>
+    <type name="Pokemoncard097">
+    </type>
+    <type name="Pokemoncard098">
+    </type>
+    <type name="Pokemoncard099">
+    </type>
+    <type name="Pokemoncard100">
+    </type>
+    <type name="Pokemoncard101">
+    </type>
+    <type name="Pokemoncard102">
+    </type>
+    <type name="Pokemoncard103">
+    </type>
+    <type name="Pokemoncard104">
+    </type>
+    <type name="Pokemoncard105">
+    </type>
+    <type name="Pokemoncard106">
+    </type>
+    <type name="Pokemoncard107">
+    </type>
+    <type name="Pokemoncard108">
+    </type>
+    <type name="Pokemoncard109">
+    </type>
+    <type name="Pokemoncard110">
+    </type>
+    <type name="Pokemoncard111">
+    </type>
+    <type name="Pokemoncard112">
+    </type>
+    <type name="Pokemoncard113">
+    </type>
+    <type name="Pokemoncard114">
+    </type>
+    <type name="Pokemoncard115">
+    </type>
+    <type name="Pokemoncard116">
+    </type>
+    <type name="Pokemoncard117">
+    </type>
+    <type name="Pokemoncard118">
+    </type>
+    <type name="Pokemoncard119">
+    </type>
+    <type name="Pokemoncard120">
+    </type>
+    <type name="Pokemoncard121">
+    </type>
+    <type name="Pokemoncard122">
+    </type>
+    <type name="Pokemoncard123">
+    </type>
+    <type name="Pokemoncard124">
+    </type>
+    <type name="Pokemoncard125">
+    </type>
+    <type name="Pokemoncard126">
+    </type>
+    <type name="Pokemoncard127">
+    </type>
+    <type name="Pokemoncard128">
+    </type>
+    <type name="Pokemoncard129">
+    </type>
+    <type name="Pokemoncard130">
+    </type>
+    <type name="Pokemoncard131">
+    </type>
+    <type name="Pokemoncard132">
+    </type>
+    <type name="Pokemoncard133">
+    </type>
+    <type name="Pokemoncard134">
+    </type>
+    <type name="Pokemoncard135">
+    </type>
+    <type name="Pokemoncard136">
+    </type>
+    <type name="Pokemoncard137">
+    </type>
+    <type name="Pokemoncard138">
+    </type>
+    <type name="Pokemoncard139">
+    </type>
+    <type name="Pokemoncard140">
+    </type>
+    <type name="Pokemoncard141">
+    </type>
+    <type name="Pokemoncard142">
+    </type>
+    <type name="Pokemoncard143">
+    </type>
+    <type name="Pokemoncard144">
+    </type>
+    <type name="Pokemoncard145">
+    </type>
+    <type name="Pokemoncard146">
+    </type>
+    <type name="Pokemoncard147">
+    </type>
+    <type name="Pokemoncard148">
+    </type>
+    <type name="Pokemoncard149">
+    </type>
+    <type name="Pokemoncard150">
+    </type>
+    <type name="Pokemoncard151">
+    </type>
+</spawnabletypes>
