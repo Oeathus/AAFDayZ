@@ -63,8 +63,18 @@ class CustomMission: MissionServer
 		if ( itemClothing )
 		{
 			SetRandomHealth( itemClothing );
+						
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "PersonalRadio" );
 			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Battery9V" );
+
+			itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
+			if ( Class.CastTo( itemBs, itemEnt ) )
+			{
+				SetRandomHealth( itemEnt );
+				itemBs.SetQuantity( 4 );
+				itemBs.SetCleanness( 1 );
+			}
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
 
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };

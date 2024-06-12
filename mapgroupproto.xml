@@ -12,6 +12,18 @@
 				<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
 		</defaults>
+        <group name="Land_Mil_Tower_Small" lootmax="1">
+            <usage name="Military" />
+            <container name="lootFloor" lootmax="1">
+                <category name="clothes" />
+                <category name="weapons" />
+                <category name="explosives" />
+                <tag name="floor" />
+                <tag name="shelves" />
+                <point pos="1.649902 1.277603 0.550781" range="0.285645" height="0.714111" />
+                <point pos="1.128418 1.277603 -0.120117" range="0.564091" height="1.382492" />
+            </container>
+        </group>
 		<group name="Land_Roadblock_Table" lootmax="1">
 				<usage name="Military" />
 				<usage name="Police" />
@@ -2559,24 +2571,58 @@
 						<point pos="-1.788670 6.240753 2.837159" range="0.269740" height="0.674347" />
 				</container>
 		</group>
-		<group name="Land_Tenement_Big" lootmax="0">
-				<usage name="Town" />
-				<container name="lootFloor" lootmax="0">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<tag name="floor" />
-				</container>
-				<container name="lootshelves" lootmax="0">
-						<category name="clothes" />
-						<category name="books" />
-						<tag name="shelves" />
-				</container>
-				<container name="lootweapons" lootmax="0">
-						<category name="weapons" />
-						<category name="explosives" />
-				</container>
-		</group>
+		<group name="Land_Tenement_Big" lootmax="20">
+            <usage name="Town" />
+            <container name="lootFloor" lootmax="8">
+                <category name="clothes" />
+                <category name="containers" />
+                <category name="industrialfood" />
+                <category name="tools" />
+                <tag name="floor" />
+                <point pos="2.391760 -6.110834 -3.078480" range="0.5" height="1.5" />
+                <point pos="6.473480 -6.067335 -5.692750" range="0.5" height="1.5" />
+                <point pos="4.236520 -5.110834 -3.714620" range="0.5" height="1.5" />
+                <point pos="1.866690 -6.169035 -9.556300" range="0.5" height="1.5" />
+                <point pos="2.603640 -6.057035 -7.450530" range="0.5" height="1.5" />
+                <point pos="-6.038020 -6.110834 9.253470" range="0.5" height="1.5" />
+                <point pos="-4.086540 -6.110834 7.633330" range="0.5" height="1.5" />
+                <point pos="-5.136330 -6.160835 4.503560" range="0.5" height="1.5" />
+                <point pos="-4.625040 -5.169035 -1.406830" range="0.5" height="1.5" />
+                <point pos="5.448084 -2.760860 3.951735" range="0.5" height="1.5" />
+                <point pos="4.370475 -2.760860 8.415280" range="0.5" height="1.5" />
+            </container>
+            <container name="lootshelves" lootmax="10">
+                <category name="books" />
+                <category name="clothes" />
+                <category name="industrialfood" />
+                <category name="tools" />
+                <tag name="shelves" />
+                <point pos="-1.886520 -2.269035 8.413360" range="0.5" height="1.5" />
+                <point pos="-2.157740 0.583565 -9.056300" range="0.5" height="1.5" />
+                <point pos="-5.508456 0.689138 -4.639400" range="0.5" height="1.5" />
+                <point pos="-5.364130 0.689138 -8.807669" range="0.5" height="1.5" />
+                <point pos="-5.626540 7.463266 7.948660" range="0.5" height="1.5" />
+                <point pos="-3.976520 7.408464 4.215200" range="0.5" height="1.5" />
+                <point pos="-5.604620 7.489164 -1.496690" range="0.5" height="1.5" />
+                <point pos="5.716547 10.839140 -4.894007" range="0.5" height="1.5" />
+                <point pos="3.817710 10.889139 -8.410682" range="0.5" height="1.5" />
+                <point pos="1.186451 10.889139 -9.239987" range="0.5" height="1.5" />
+                <point pos="-4.325676 14.239141 -4.522745" range="0.5" height="1.5" />
+                <point pos="-3.250340 14.243567 -9.056300" range="0.5" height="1.5" />
+                <point pos="3.985577 14.239141 8.098276" range="0.5" height="1.5" />
+            </container>
+            <container name="lootweapons" lootmax="4">
+                <category name="weapons" />
+                <category name="explosives" />
+                <point pos="-1.145742 14.289141 7.906528" range="0.5" height="1.5" />
+                <point pos="5.890063 14.239141 3.578158" range="0.5" height="1.5" />
+                <point pos="3.656820 24.903463 0.066316" range="0.5" height="1.5" />
+                <point pos="2.777766 21.279139 -3.729143" range="0.5" height="1.5" />
+                <point pos="4.523202 21.279139 3.811887" range="0.5" height="1.5" />
+                <point pos="-2.902136 21.279139 -7.040430" range="0.5" height="1.5" />
+                <point pos="-4.002056 21.229139 7.326950" range="0.5" height="1.5" />
+            </container>
+        </group>
 		<group name="Land_City_Stand_News1">
 				<usage name="Town" />
 				<container name="lootFloor" lootmax="3">

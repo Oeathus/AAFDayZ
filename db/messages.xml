@@ -43,5 +43,9 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
     -->
-
+    <message>
+        <deadline>238</deadline>
+        <shutdown>1</shutdown>
+        <text>Restart in #tmin minutes, log off a minute early to prevent rollback</text>
+    </message>
 </messages>

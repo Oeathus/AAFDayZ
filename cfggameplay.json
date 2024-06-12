@@ -1,15 +1,15 @@
 {
-	"version": 122,
+	"version": 125,
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
 		"disableRespawnDialog": false,
-		"disableRespawnInUnconsciousness": false
+		"disableRespawnInUnconsciousness": true
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": false,
+		"disablePersonalLight": true,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -79,7 +79,7 @@
 	},
 	"UIData":
 	{
-		"use3DMap": false,
+		"use3DMap": true,
 		"HitIndicationData":
 		{
 			"hitDirectionOverrideEnabled": false,
@@ -97,6 +97,6 @@
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": false,
 		"displayPlayerPosition": false,
-		"displayNavInfo": true
+		"displayNavInfo": false
 	}
 }
