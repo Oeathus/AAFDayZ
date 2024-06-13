@@ -2,7 +2,7 @@
 
 <spawnabletypes>
     <damage min="0.30" max="0.75" />
-    
+
     <type name="PokemonCard_SealedBox1">
     </type>
     <type name="PokemonCard_SealedBox2">

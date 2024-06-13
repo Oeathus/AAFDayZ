@@ -13,7 +13,7 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="Latex_Leggings">
+    <type name="Latex_Leggings">
         <nominal>7</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -699,15 +699,15 @@
         <usage name="Village"/>
     </type>
     <type name="Ragged_Eyepatch">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="tools" />
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
     </type>
     <type name="Kneepads_Jeans_Base">
         <nominal>5</nominal>
@@ -829,27 +829,27 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="HumanSkull">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="tools" />
+    <type name="HumanSkull">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
     </type>
-	<type name="SkullMask">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="tools" />
+    <type name="SkullMask">
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="tools" />
     </type>
     <type name="Slouch_Hat_Brown">
         <nominal>5</nominal>
@@ -1100,15 +1100,15 @@
         <usage name="Underground"/>
     </type>
     <type name="Leather_Cloak_down">
-		<nominal>0</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
-		<category name="clothes" />
+        <nominal>0</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0" />
+        <category name="clothes" />
     </type>
     <type name="Kirza_Boots">
         <nominal>10</nominal>

@@ -119,7 +119,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_Bell429_Police">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -139,7 +139,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_Bell429_Medic">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -240,7 +240,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>		
+    </type>
 
     <type name="RFFSHeli_Mi2_Military">
         <nominal>0</nominal>
@@ -261,7 +261,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>		
+    </type>
 
     <type name="RFFSHeli_Mi2_Hornet">
         <nominal>0</nominal>
@@ -282,7 +282,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>		
+    </type>
 
     <type name="RFFSHeli_Apache">
         <nominal>0</nominal>
@@ -303,7 +303,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_Apache_Winter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -593,7 +593,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_UH1H_Combat">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -613,7 +613,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_AS350">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -633,7 +633,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_S76">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -653,7 +653,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_S76_WoodlandCamo">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
@@ -673,7 +673,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_flight_case">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -683,7 +683,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_flight_case_red">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
@@ -693,7 +693,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    </type>	
+    </type>
     <type name="RFFSHeli_flight_case_blue">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>

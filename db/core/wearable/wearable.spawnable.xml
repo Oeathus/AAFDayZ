@@ -2,989 +2,989 @@
 <spawnabletypes>
     <damage min="0.30" max="0.75" />
 
-	<type name="NBCBootsGray">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCBootsYellow">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCGlovesGray">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCGlovesYellow">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCHoodGray">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCHoodYellow">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCJacketGray">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCJacketYellow">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCPantsGray">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NBCPantsYellow">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="AirborneMask">
-		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
-	</type>
-	<type name="GP5GasMask">
-		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
-	</type>
-	<type name="GasMask">
-		<damage min="0.0" max="0.35" />
-	</type>
-	<type name="NVGoggles">
-		<damage min="0.0" max="0.32" />
-	</type>
-	
-	<type name="PlateCarrierVest">
-		<damage min="0.3" max="0.7" />
-	</type>
-	<type name="PlateCarrierVest_Black">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="PlateCarrierHolster_Black" chance="1.00" />
-		</attachments>
-		<attachments chance="0.85">
-			<item name="PlateCarrierPouches_Black" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="PlateCarrierVest_Green">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="PlateCarrierHolster_Green" chance="1.00" />
-		</attachments>
-		<attachments chance="0.85">
-			<item name="PlateCarrierPouches_Green" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="Mich2001Helmet">
-		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
-			<item name="NVGoggles" chance="1.00" />
-			<item name="Battery9V" chance="1.00" />
-		</attachments>
-	</type>
+    <type name="NBCBootsGray">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCBootsYellow">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCGlovesGray">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCGlovesYellow">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCHoodGray">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCHoodYellow">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCJacketGray">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCJacketYellow">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCPantsGray">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NBCPantsYellow">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="AirborneMask">
+        <damage min="0.0" max="0.35" />
+        <cargo chance="0.2">
+            <item name="GasMask_Filter" />
+        </cargo>
+    </type>
+    <type name="GP5GasMask">
+        <damage min="0.0" max="0.35" />
+        <cargo chance="0.2">
+            <item name="GasMask_Filter" />
+        </cargo>
+    </type>
+    <type name="GasMask">
+        <damage min="0.0" max="0.35" />
+    </type>
+    <type name="NVGoggles">
+        <damage min="0.0" max="0.32" />
+    </type>
 
-	<type name="ShortJeans_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="ShortJeans_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="ShortJeans_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="ShortJeans_Darkblue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="ShortJeans_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="ShortJeans_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-	</type>
-	<type name="CargoPants_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-	</type>
-	<type name="CargoPants_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-	</type>
-	<type name="CargoPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-	</type>
-	<type name="CargoPants_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-	</type>
-	<type name="CargoPants_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodVillage" />
-		<cargo preset="toolsIndustrial" />
-	</type>
-	<type name="TTSKOPants">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="HuntingJacket_Autumn">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HuntingJacket_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HuntingJacket_Spring">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HuntingJacket_Summer">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HuntingJacket_Winter">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HunterPants_Autumn">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HunterPants_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HunterPants_Spring">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HunterPants_Summer">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="HunterPants_Winter">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixHunter" />
-	</type>
-	<type name="CanvasPants_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPants_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPants_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPants_Violet">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPantsMidi_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPantsMidi_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPantsMidi_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPantsMidi_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="CanvasPantsMidi_Violet">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitPants_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitPants_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitPants_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitPants_LightBlue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="GorkaPants_Summer">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="GorkaPants_Autumn">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="GorkaPants_Flat">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="GorkaPants_PautRev">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="ParamedicJacket_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="ParamedicJacket_Crimson">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="ParamedicJacket_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="ParamedicPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="ParamedicPants_Crimson">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="ParamedicPants_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="MedicalScrubsPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="MedicalScrubsPants_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="MedicalScrubsPants_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="USMCPants_Desert">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="USMCPants_Woodland">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="SlacksPants_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_DarkGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_Khaki">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_LightGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="SlacksPants_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Pink">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Browncheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Blackcheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Breeches_Beetcheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BDUPants">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="ManSuit_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_DarkGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_LightGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_White">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="ManSuit_Khaki">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.02">
-			<item name="Derringer_Black" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_DarkGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_Khaki">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_LightGrey">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="WomanSuit_White">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.01">
-			<item name="Derringer_Pink" chance="1.00" />
-		</cargo>
-	</type>
-	<type name="Sweater_Gray">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Sweater_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Sweater_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixArmy" />
-	</type>
-	<type name="Sweater_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_BlueCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_BlueCheckBright">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_GreenCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_RedCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_WhiteCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Shirt_PlaneBlack">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Hoodie_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TacticalShirt_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="TacticalShirt_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="TacticalShirt_Olive">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="TacticalShirt_Tan">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="HikingJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="HikingJacket_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="HikingJacket_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="HikingJacket_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Orange">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Yellow">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Pink">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="Raincoat_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="M65Jacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="M65Jacket_Khaki">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="M65Jacket_Tan">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="M65Jacket_Olive">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="TTsKOJacket_Camo">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="GorkaEJacket_Summer">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="GorkaEJacket_Flat">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="GorkaEJacket_Autumn">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="GorkaEJacket_PautRev">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="RidersJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_RedCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_BlackCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_BlueCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_GreyCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="WoolCoat_BrownCheck">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitJacket_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitJacket_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitJacket_LightBlue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="TrackSuitJacket_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="FirefighterJacket_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="FirefighterJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="FirefightersPants_Beige">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="FirefightersPants_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="PoliceJacket">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoPolice" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="PolicePants">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoPolice" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="PoliceJacketOrel">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoPolice" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="PolicePantsOrel">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="ammoPolice" />
-		<cargo preset="toolsPolice" />
-	</type>
-	<type name="PrisonUniformJacket">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Rope" chance="0.14" />
-		</cargo>
-	</type>
-	<type name="PrisonUniformPants">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Rope" chance="0.14" />
-		</cargo>
-	</type>
-	<type name="MiniDress_Pink">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_PinkChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_RedChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_WhiteChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_GreenChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_BrownChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_BlueChecker">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="MiniDress_BlueWithDots">
-		<damage min="0.3" max="0.7" />
-		<cargo chance="0.10">
-			<item name="Ammo_9x19" chance="0.20" />
-			<item name="Ammo_380" chance="0.20" />
-		</cargo>
-		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
-	</type>
-	<type name="QuiltedJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Red">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Orange">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Yellow">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="QuiltedJacket_Violet">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Black">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Brown">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Grey">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Maroon">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_Olive">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="BomberJacket_SkyBlue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="mixVillage" />
-	</type>
-	<type name="MedicalScrubsShirt_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="MedicalScrubsShirt_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="MedicalScrubsShirt_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="LabCoat">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="NurseDress_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="NurseDress_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="USMCJacket_Desert">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="USMCJacket_Woodland">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodArmy" />
-		<cargo preset="ammoArmy" />
-	</type>
-	<type name="Blouse_Blue">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
-	</type>
-	<type name="Blouse_Green">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
-	</type>
-	<type name="Blouse_Violet">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
-	</type>
-	<type name="Blouse_White">
-		<damage min="0.3" max="0.7" />
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
-	</type>
-	<type name="DirtBikeHelmet_Black">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Red">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Police">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Khaki">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Green">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Chernarus">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="DirtBikeHelmet_Blue">
-		<damage min="0.3" max="0.7" />
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
-		</attachments>
-		<attachments chance="0.20">
-			<item name="DirtBikeHelmet_Visor" chance="1.00" />
-		</attachments>
-	</type>
+    <type name="PlateCarrierVest">
+        <damage min="0.3" max="0.7" />
+    </type>
+    <type name="PlateCarrierVest_Black">
+        <damage min="0.1" max="0.6" />
+        <attachments chance="0.85">
+            <item name="PlateCarrierHolster_Black" chance="1.00" />
+        </attachments>
+        <attachments chance="0.85">
+            <item name="PlateCarrierPouches_Black" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="PlateCarrierVest_Green">
+        <damage min="0.1" max="0.6" />
+        <attachments chance="0.85">
+            <item name="PlateCarrierHolster_Green" chance="1.00" />
+        </attachments>
+        <attachments chance="0.85">
+            <item name="PlateCarrierPouches_Green" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="Mich2001Helmet">
+        <damage min="0.1" max="0.6" />
+        <attachments chance="0.85">
+            <item name="NVGoggles" chance="1.00" />
+            <item name="Battery9V" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="ShortJeans_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="ShortJeans_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="ShortJeans_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="ShortJeans_Darkblue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="ShortJeans_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="ShortJeans_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="CargoPants_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+    </type>
+    <type name="CargoPants_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+    </type>
+    <type name="CargoPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+    </type>
+    <type name="CargoPants_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+    </type>
+    <type name="CargoPants_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodVillage" />
+        <cargo preset="toolsIndustrial" />
+    </type>
+    <type name="TTSKOPants">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="HuntingJacket_Autumn">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HuntingJacket_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HuntingJacket_Spring">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HuntingJacket_Summer">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HuntingJacket_Winter">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HunterPants_Autumn">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HunterPants_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HunterPants_Spring">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HunterPants_Summer">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="HunterPants_Winter">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixHunter" />
+    </type>
+    <type name="CanvasPants_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPants_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPants_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPants_Violet">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPantsMidi_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPantsMidi_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPantsMidi_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPantsMidi_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="CanvasPantsMidi_Violet">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitPants_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitPants_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitPants_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitPants_LightBlue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="GorkaPants_Summer">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="GorkaPants_Autumn">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="GorkaPants_Flat">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="GorkaPants_PautRev">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="ParamedicJacket_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="ParamedicJacket_Crimson">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="ParamedicJacket_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="ParamedicPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="ParamedicPants_Crimson">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="ParamedicPants_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="MedicalScrubsPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="MedicalScrubsPants_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="MedicalScrubsPants_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="USMCPants_Desert">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="USMCPants_Woodland">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="SlacksPants_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_DarkGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_Khaki">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_LightGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="SlacksPants_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Pink">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Browncheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Blackcheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Breeches_Beetcheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BDUPants">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="ManSuit_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_DarkGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_LightGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_White">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="ManSuit_Khaki">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.02">
+            <item name="Derringer_Black" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_DarkGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_Khaki">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_LightGrey">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="WomanSuit_White">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.01">
+            <item name="Derringer_Pink" chance="1.00" />
+        </cargo>
+    </type>
+    <type name="Sweater_Gray">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Sweater_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Sweater_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="Sweater_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_BlueCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_BlueCheckBright">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_GreenCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_RedCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_WhiteCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Shirt_PlaneBlack">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Hoodie_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TacticalShirt_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="TacticalShirt_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="TacticalShirt_Olive">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="TacticalShirt_Tan">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="HikingJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="HikingJacket_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="HikingJacket_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="HikingJacket_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Orange">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Yellow">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Pink">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="Raincoat_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="M65Jacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="M65Jacket_Khaki">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="M65Jacket_Tan">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="M65Jacket_Olive">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="TTsKOJacket_Camo">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="GorkaEJacket_Summer">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="GorkaEJacket_Flat">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="GorkaEJacket_Autumn">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="GorkaEJacket_PautRev">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="RidersJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_RedCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_BlackCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_BlueCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_GreyCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="WoolCoat_BrownCheck">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitJacket_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitJacket_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitJacket_LightBlue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="TrackSuitJacket_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="FirefighterJacket_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="FirefighterJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="FirefightersPants_Beige">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="FirefightersPants_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="PoliceJacket">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="PolicePants">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="PoliceJacketOrel">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="PolicePantsOrel">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="ammoPolice" />
+        <cargo preset="toolsPolice" />
+    </type>
+    <type name="PrisonUniformJacket">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
+    </type>
+    <type name="PrisonUniformPants">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Rope" chance="0.14" />
+        </cargo>
+    </type>
+    <type name="MiniDress_Pink">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_PinkChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_RedChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_WhiteChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_GreenChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_BrownChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_BlueChecker">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="MiniDress_BlueWithDots">
+        <damage min="0.3" max="0.7" />
+        <cargo chance="0.10">
+            <item name="Ammo_9x19" chance="0.20" />
+            <item name="Ammo_380" chance="0.20" />
+        </cargo>
+        <cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+    </type>
+    <type name="QuiltedJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Red">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Orange">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Yellow">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="QuiltedJacket_Violet">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Black">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Brown">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Grey">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Maroon">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_Olive">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="BomberJacket_SkyBlue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="MedicalScrubsShirt_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="MedicalScrubsShirt_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="MedicalScrubsShirt_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="LabCoat">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="NurseDress_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="NurseDress_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="USMCJacket_Desert">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="USMCJacket_Woodland">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+    </type>
+    <type name="Blouse_Blue">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+    </type>
+    <type name="Blouse_Green">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+    </type>
+    <type name="Blouse_Violet">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+    </type>
+    <type name="Blouse_White">
+        <damage min="0.3" max="0.7" />
+        <cargo preset="foodCity" />
+        <cargo preset="toolsCity" />
+    </type>
+    <type name="DirtBikeHelmet_Black">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Red">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Police">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Khaki">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Green">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Chernarus">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="DirtBikeHelmet_Blue">
+        <damage min="0.3" max="0.7" />
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Mouthguard" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="DirtBikeHelmet_Visor" chance="1.00" />
+        </attachments>
+    </type>
 </spawnabletypes>

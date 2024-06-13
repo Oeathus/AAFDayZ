@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
   <type name="Zen_TireRack">
-		<nominal>0</nominal>
+        <nominal>0</nominal>
         <lifetime>2419200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -10,94 +10,94 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
-		<tag name="floor"/>
-		<usage name="Industrial"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
     </type>
 
     <!-- Tent bags -->
-	<type name="TentBag_Orel">
-		<nominal>1</nominal>
-		<min>1</min>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<usage />
-		<category name="containers"/>
+    <type name="TentBag_Orel">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <usage />
+        <category name="containers"/>
         <usage name="Hunting"/>
-	</type>
-	<type name="TentBag_Camo">
-		<nominal>1</nominal>
-		<min>0</min>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="containers"/>
+    </type>
+    <type name="TentBag_Camo">
+        <nominal>1</nominal>
+        <min>0</min>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
         <usage name="Hunting"/>
-		<value name="Tier3" />
-	</type>
-	<type name="TentBag_Desert">
-		<nominal>1</nominal>
-		<min>0</min>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="containers"/>
+        <value name="Tier3" />
+    </type>
+    <type name="TentBag_Desert">
+        <nominal>1</nominal>
+        <min>0</min>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
         <usage name="Hunting"/>
-		<value name="Tier3" />
-	</type>
-	<type name="TentBag_Arctic">
-		<nominal>1</nominal>
-		<min>0</min>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="containers"/>
+        <value name="Tier3" />
+    </type>
+    <type name="TentBag_Arctic">
+        <nominal>1</nominal>
+        <min>0</min>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
         <usage name="Hunting"/>
-		<value name="Tier3" />
-	</type>
-	<type name="TentBag">
-		<nominal>1</nominal>
-		<min>1</min>
-		<lifetime>28800</lifetime>
-		<restock>7200</restock>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
-		<category name="containers"/>
+        <value name="Tier3" />
+    </type>
+    <type name="TentBag">
+        <nominal>1</nominal>
+        <min>1</min>
+        <lifetime>28800</lifetime>
+        <restock>7200</restock>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers"/>
         <usage name="Hunting"/>
-	</type>
+    </type>
     <type name="Zen_CarWorkbench">
         <lifetime>2419200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_CarWorkbenchKit">
-		<nominal>1</nominal>
-		<lifetime>172800</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="tools" />
-		<tag name="floor"/>
-		<usage name="Industrial" />
+    <type name="Zen_CarWorkbenchKit">
+        <nominal>1</nominal>
+        <lifetime>172800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools" />
+        <tag name="floor"/>
+        <usage name="Industrial" />
     </type>
     <type name="Zen_ChessBoard">
-		<nominal>1</nominal>
+        <nominal>1</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -110,60 +110,60 @@
         <usage name="Town"/>
         <usage name="Village"/>
     </type>
-	<type name="Zen_ChessBoard_Static">
-		<lifetime>9999999</lifetime>
+    <type name="Zen_ChessBoard_Static">
+        <lifetime>9999999</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhitePawn">
+    <type name="Zen_ChessWhitePawn">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackPawn">
+    <type name="Zen_ChessBlackPawn">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhiteBishop">
+    <type name="Zen_ChessWhiteBishop">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackBishop">
+    <type name="Zen_ChessBlackBishop">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhiteKing">
+    <type name="Zen_ChessWhiteKing">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackKing">
+    <type name="Zen_ChessBlackKing">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhiteKnight">
+    <type name="Zen_ChessWhiteKnight">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackKnight">
+    <type name="Zen_ChessBlackKnight">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhiteQueen">
+    <type name="Zen_ChessWhiteQueen">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackQueen">
+    <type name="Zen_ChessBlackQueen">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessWhiteRook">
+    <type name="Zen_ChessWhiteRook">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Zen_ChessBlackRook">
+    <type name="Zen_ChessBlackRook">
         <lifetime>3600</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <!-- Concussion grenade -->
-	<type name="Zen_ConcussionGrenade">
+    <type name="Zen_ConcussionGrenade">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -175,161 +175,161 @@
         <category name="explosives"/>
         <usage name="Military"/>
     </type>
-	    <!-- Start Empty Food Items (Default persistence: 30 minutes) -->
-	<type name="Empty_SodaCan_Pipsi">
+        <!-- Start Empty Food Items (Default persistence: 30 minutes) -->
+    <type name="Empty_SodaCan_Pipsi">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SodaCan_Cola">
+    <type name="Empty_SodaCan_Cola">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SodaCan_Spite">
+    <type name="Empty_SodaCan_Spite">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SodaCan_Kvass">
+    <type name="Empty_SodaCan_Kvass">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SodaCan_Fronta">
+    <type name="Empty_SodaCan_Fronta">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_BoxCerealCrunchin">
+    <type name="Empty_BoxCerealCrunchin">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Rice">
+    <type name="Empty_Rice">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_PowderedMilk">
+    <type name="Empty_PowderedMilk">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Marmalade">
+    <type name="Empty_Marmalade">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Honey">
+    <type name="Empty_Honey">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Marmalade_NoLiquid">
+    <type name="Empty_Marmalade_NoLiquid">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Honey_NoLiquid">
+    <type name="Empty_Honey_NoLiquid">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Zagorky">
+    <type name="Empty_Zagorky">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_ZagorkyChocolate">
+    <type name="Empty_ZagorkyChocolate">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_ZagorkyPeanuts">
+    <type name="Empty_ZagorkyPeanuts">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SaltySticks">
+    <type name="Empty_SaltySticks">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Crackers">
+    <type name="Empty_Crackers">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Chips">
+    <type name="Empty_Chips">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_BakedBeansCan_Opened">
+    <type name="Empty_BakedBeansCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_PeachesCan_Opened">
+    <type name="Empty_PeachesCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_TacticalBaconCan_Opened">
+    <type name="Empty_TacticalBaconCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SpaghettiCan_Opened">
+    <type name="Empty_SpaghettiCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_SardinesCan_Opened">
+    <type name="Empty_SardinesCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_TunaCan_Opened">
+    <type name="Empty_TunaCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_DogFoodCan_Opened">
+    <type name="Empty_DogFoodCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_CatFoodCan_Opened">
+    <type name="Empty_CatFoodCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_PorkCan_Opened">
+    <type name="Empty_PorkCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Lunchmeat_Opened">
+    <type name="Empty_Lunchmeat_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_UnknownFoodCan_Opened">
+    <type name="Empty_UnknownFoodCan_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_Pate_Opened">
+    <type name="Empty_Pate_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Empty_BrisketSpread_Opened">
+    <type name="Empty_BrisketSpread_Opened">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<!-- End Empty Food Items -->
-	<!-- Start Used Medical Items (Default persistence: 30 minutes) -->
-	<type name="Used_SalineBagIV">
+    <!-- End Empty Food Items -->
+    <!-- Start Used Medical Items (Default persistence: 30 minutes) -->
+    <type name="Used_SalineBagIV">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Used_BloodBagIV">
+    <type name="Used_BloodBagIV">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<type name="Used_Morphine">
+    <type name="Used_Morphine">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-	</type>
+    </type>
     <type name="Used_Epinephrine">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-	</type>
-	<type name="Used_AntiChemInjector">
+    </type>
+    <type name="Used_AntiChemInjector">
         <lifetime>1800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
-	<!-- End Used Medical Items -->
+    <!-- End Used Medical Items -->
     <!-- Written notes -->
-	<type name="ZenNote">
+    <type name="ZenNote">
         <lifetime>1944000</lifetime>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-	</type>
-	<!-- Colored pens -->
-	<type name="Pen_Black">
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <!-- Colored pens -->
+    <type name="Pen_Black">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -381,7 +381,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
-	<type name="Pen_Pink">
+    <type name="Pen_Pink">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -394,7 +394,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
-	<type name="Pen_Purple">
+    <type name="Pen_Purple">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -407,7 +407,7 @@
         <tag name="shelves"/>
         <usage name="Village"/>
     </type>
-	<type name="Pen_Orange">
+    <type name="Pen_Orange">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>

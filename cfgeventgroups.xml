@@ -240,7 +240,7 @@
         <child type="Land_Container_1Moh_DE" deloot="0" lootmax="4" lootmin="3" x="-102.684" z="-44.586" a="246.486" y="1.9"/>
         <child type="Land_Container_1Moh_DE" deloot="0" lootmax="4" lootmin="3" x="-109.463" z="-47.578" a="66.520" y="1.9"/>
     </group>
-    
+
     <!-- Convoy -->
     <!--pos deloot="1" lootmax="4" lootmin="2" x="8772.478" z="8563.994" a="0" y="269.798" group="Abandoned_Borek"/-->
     <group name="Abandoned_Borek">
@@ -482,7 +482,7 @@
         <child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="43.421" z="-30.815" a="171.397"/>
         <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="43.437" z="-30.587" a="346.593"/>
     </group>
-    
+
     <!-- Police Situations -->
     <!--pos deloot="1" lootmax="4" lootmin="2" x="10260.424" z="4227.363" a="0" y="339.232" group="Block_Gieraltow"/-->
     <group name="Block_Gieraltow">
@@ -706,7 +706,7 @@
     <!--pos deloot="1" lootmax="4" lootmin="2" x="4149.393" z="10874.596" a="0" y="215.978" group="Traffic_Lukow"/-->
     <group name="Traffic_Lukow">
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="6.423" z="-14.528" a="158.050" />
-        <child type="Land_Wreck_hb01_aban2_police_DE" deloot="1" lootmax="4" lootmin="2" x="6.549" z="-14.627" a="325.451"/> 
+        <child type="Land_Wreck_hb01_aban2_police_DE" deloot="1" lootmax="4" lootmin="2" x="6.549" z="-14.627" a="325.451"/>
         <child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="21.190" z="-21.727" a="158.118"/>
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="21.264" z="-22.714" a="349.558" />
         <child type="Land_Wreck_sed02_aban2_red_DE" deloot="1" lootmax="2" lootmin="2" x="2.695" z="-19.822" a="22.302" />
@@ -798,7 +798,7 @@
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="6.300" z="6.786" a="268.083"/>
         <child type="Land_Wreck_hb01_aban2_green_DE" deloot="1" lootmax="2" lootmin="2" x="0.799" z="-2.156" a="188.027"/>
         <child type="Land_Wreck_hb02_aban1_red_DE" deloot="1" lootmax="2" lootmin="2" x="-1.353" z="-0.074" a="251.195" />
-        <child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="6.666" z="7.104" a="86.760"/> 
+        <child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="6.666" z="7.104" a="86.760"/>
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="20.667" z="9.463" a="75.226" />
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="2.362" z="-12.195" a="181.581" />
         <child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="9.354" z="-0.754" a="0" />
@@ -823,7 +823,7 @@
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="18.511" z="-7.293" a="247.972" />
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="19.374" z="12.428" a="212.907" />
         <child type="Land_Wreck_hb01_aban2_police_DE" deloot="1" lootmax="4" lootmin="2" x="19.671" z="12.992" a="42.413" />
-        <child type="Land_wreck_truck01_aban1_blue_DE" deloot="1" lootmax="2" lootmin="2" x="15.555" z="0.987" a="19.208"/> 
+        <child type="Land_wreck_truck01_aban1_blue_DE" deloot="1" lootmax="2" lootmin="2" x="15.555" z="0.987" a="19.208"/>
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="24.750" z="18.402" a="27.330" />
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="11.719" z="-5.754" a="282.393"/>
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="30.507" z="-8.383" a="129.818"/>
@@ -892,7 +892,7 @@
         <child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="8.080" z="-22.845" a="170.297"/>
         <child type="Land_Wreck_hb01_aban2_police_DE" deloot="1" lootmax="4" lootmin="2" x="9.793" z="-21.189" a="100.812"/>
         <child type="Land_Wreck_sed02_aban1_red_DE" deloot="1" lootmax="2" lootmin="2" x="2.357" z="-8.058" a="151.734"/>
-        <child type="Land_Wreck_sed01_aban2_black_DE" deloot="1" lootmax="2" lootmin="2" x="3.905" z="-4.798" a="95.594"/> 
+        <child type="Land_Wreck_sed01_aban2_black_DE" deloot="1" lootmax="2" lootmin="2" x="3.905" z="-4.798" a="95.594"/>
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="3.051" z="-9.126" a="341.952"/>
         <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="4.614" z="-4.916" a="287.292"/>
     </group>

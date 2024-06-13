@@ -80,8 +80,8 @@
             <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_LittleBird"/>
         </children>
     </event>
-	
-	 <event name="VehicleRFFSHeli_Bell429">
+
+     <event name="VehicleRFFSHeli_Bell429">
         <nominal>3</nominal> <!-- Glingska Airfeild, Swarog and Lembork -->
         <min>3</min>
         <max>3</max>
@@ -98,8 +98,8 @@
             <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_Bell429"/>
         </children>
     </event>
-	
-	 <event name="VehicleRFFSHeli_Ka26">
+
+     <event name="VehicleRFFSHeli_Ka26">
         <nominal>3</nominal> <!-- Glingska Airfeild, Dolnik and Edge of Map, North of Grabin -->
         <min>3</min>
         <max>3</max>
