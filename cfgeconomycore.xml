@@ -36,63 +36,51 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <default name="save_types_startup" value="true"/>
     </defaults>
 
-    <ce folder="db/core/agent">
+    <ce folder="coretypes/types">
+        <file name="ammo.types.xml" type="types" />
         <file name="animal.types.xml" type="types" />
+        <file name="armband.types.xml" type="types" />
+        <file name="armor.types.xml" type="types" />
+        <file name="bag.types.xml" type="types" />
+        <file name="clothing.types.xml" type="types" />
+        <file name="container.types.xml" type="types" />
+        <file name="explosive.types.xml" type="types" />
+        <file name="flag.types.xml" type="types" />
+        <file name="food.types.xml" type="types" />
+        <file name="fungi.types.xml" type="types" />
+        <file name="glove.types.xml" type="types" />
+        <file name="gun.types.xml" type="types" />
+        <file name="gunmod.types.xml" type="types" />
+        <file name="head.types.xml" type="types" />
+        <file name="light.types.xml" type="types" />
+        <file name="mag.types.xml" type="types" />
+        <file name="meat.types.xml" type="types" />
+        <file name="med.types.xml" type="types" />
+        <file name="melee.types.xml" type="types" />
+        <file name="optic.types.xml" type="types" />
+        <file name="plant.types.xml" type="types" />
+        <file name="ppe.types.xml" type="types" />
+        <file name="seed.types.xml" type="types" />
+        <file name="shoe.types.xml" type="types" />
+        <file name="tool.types.xml" type="types" />
         <file name="zombie.types.xml" type="types" />
+    </ce>
+
+    <ce folder="coretypes/spawnabletypes">
+        <file name="bag.spawnable.xml" type="spawnabletypes" />
+        <file name="container.spawnable.xml" type="spawnabletypes" />
+        <file name="item.spawnable.xml" type="spawnabletypes" />
+        <file name="weapon.spawnable.xml" type="spawnabletypes" />
+        <file name="wearable.spawnable.xml" type="spawnabletypes" />
         <file name="zombie.spawnable.xml" type="spawnabletypes" />
     </ce>
 
-    <ce folder="db/core/consumable">
-        <file name="food.types.xml" type="types" />
-        <file name="fungi.types.xml" type="types" />
-        <file name="meat.types.xml" type="types" />
-        <file name="med.types.xml" type="types" />
-        <file name="plant.types.xml" type="types" />
-        <file name="seed.types.xml" type="types" />
-    </ce>
-
-    <ce folder="db/core/container">
-        <file name="container.types.xml" type="types" />
-        <file name="container.spawnable.xml" type="spawnabletypes" />
-    </ce>
-
-    <ce folder="db/core/item">
-        <file name="ammo.types.xml" type="types" />
-        <file name="explosive.types.xml" type="types" />
-        <file name="flag.types.xml" type="types" />
-        <file name="gun.types.xml" type="types" />
-        <file name="gunmod.types.xml" type="types" />
-        <file name="light.types.xml" type="types" />
-        <file name="mag.types.xml" type="types" />
-        <file name="melee.types.xml" type="types" />
-        <file name="optic.types.xml" type="types" />
-        <file name="tool.types.xml" type="types" />
-        <file name="item.spawnable.xml" type="spawnabletypes" />
-        <file name="weapon.spawnable.xml" type="spawnabletypes" />
-    </ce>
-
-    <ce folder="db/core/map">
-        <file name="static.types.xml" type="types" />
-    </ce>
-
-    <ce folder="db/core/vehicle">
+    <ce folder="coretypes/vehicle">
         <file name="component.types.xml" type="types" />
         <file name="hatchback.types.xml" type="types" />
         <file name="sedan.types.xml" type="types" />
         <file name="truck.types.xml" type="types" />
         <file name="vehicle.spawnable.xml" type="spawnabletypes" />
-    </ce>
-
-    <ce folder="db/core/wearable">
-        <file name="armband.types.xml" type="types" />
-        <file name="armor.types.xml" type="types" />
-        <file name="bag.types.xml" type="types" />
-        <file name="clothing.types.xml" type="types" />
-        <file name="glove.types.xml" type="types" />
-        <file name="head.types.xml" type="types" />
-        <file name="ppe.types.xml" type="types" />
-        <file name="shoe.types.xml" type="types" />
-        <file name="wearable.spawnable.xml" type="spawnabletypes" />
     </ce>
 
     <!-- Morty Weapons -->
