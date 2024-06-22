@@ -49,6 +49,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
     <ce folder="coretypes/types">
         <file name="ammo.types.xml" type="types" />
+        <file name="animal.drops.types.xml" type="types" />
         <file name="animal.types.xml" type="types" />
         <file name="armband.flags.types.xml" type="types" />
         <file name="armor.types.xml" type="types" />
