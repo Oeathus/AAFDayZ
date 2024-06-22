@@ -36,6 +36,15 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <default name="save_types_startup" value="true"/>
     </defaults>
 
+    <ce folder="coretypes/spawnabletypes">
+        <file name="bag.spawnable.xml" type="spawnabletypes" />
+        <file name="container.spawnable.xml" type="spawnabletypes" />
+        <file name="item.spawnable.xml" type="spawnabletypes" />
+        <file name="weapon.spawnable.xml" type="spawnabletypes" />
+        <file name="wearable.spawnable.xml" type="spawnabletypes" />
+        <file name="zombie.spawnable.xml" type="spawnabletypes" />
+    </ce>
+
     <ce folder="coretypes/types">
         <file name="ammo.types.xml" type="types" />
         <file name="animal.types.xml" type="types" />
@@ -64,15 +73,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="shoe.types.xml" type="types" />
         <file name="tool.types.xml" type="types" />
         <file name="zombie.types.xml" type="types" />
-    </ce>
-
-    <ce folder="coretypes/spawnabletypes">
-        <file name="bag.spawnable.xml" type="spawnabletypes" />
-        <file name="container.spawnable.xml" type="spawnabletypes" />
-        <file name="item.spawnable.xml" type="spawnabletypes" />
-        <file name="weapon.spawnable.xml" type="spawnabletypes" />
-        <file name="wearable.spawnable.xml" type="spawnabletypes" />
-        <file name="zombie.spawnable.xml" type="spawnabletypes" />
     </ce>
 
     <ce folder="coretypes/vehicle">
