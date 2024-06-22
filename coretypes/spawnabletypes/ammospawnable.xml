@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+  <damage min="0.0" max="0.59" />
+  <type name="AmmoBox">
+    <damage min="0.00" max="0.29" />
+    <cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>
+    <cargo chance="0.20"> <item name="AmmoBox_9x39_20Rnd" /> </cargo>
+    <cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>
+    <cargo chance="0.10"> <item name="AmmoBox_9x39AP_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_308Win_20Rnd" /> </cargo>
+    <cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>
+    <cargo chance="0.15"> <item name="AmmoBox_308WinTracer_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_762x54_20Rnd" /> </cargo>
+    <cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.15"> <item name="AmmoBox_762x54Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_545x39_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /></cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_556x45_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_556x45Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+    <cargo chance="0.5"> <item name="AmmoBox_762x39_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
+    <cargo chance="0.25"> <item name="AmmoBox_762x39Tracer_20Rnd" /> </cargo>
+  </type>
+  <type name="AmmoBox_00buck_10rnd">
+  </type>
+  <type name="AmmoBox_12gaRubberSlug_10Rnd">
+  </type>
+  <type name="AmmoBox_12gaSlug_10Rnd">
+  </type>
+  <type name="AmmoBox_22_50Rnd">
+  </type>
+  <type name="AmmoBox_308WinTracer_20Rnd">
+  </type>
+  <type name="AmmoBox_308Win_20Rnd">
+  </type>
+  <type name="AmmoBox_357_20Rnd">
+  </type>
+  <type name="AmmoBox_380_35rnd">
+  </type>
+  <type name="AmmoBox_45ACP_25rnd">
+  </type>
+  <type name="AmmoBox_545x39Tracer_20Rnd">
+  </type>
+  <type name="AmmoBox_545x39_20Rnd">
+  </type>
+  <type name="AmmoBox_556x45Tracer_20Rnd">
+  </type>
+  <type name="AmmoBox_556x45_20Rnd">
+  </type>
+  <type name="AmmoBox_762x39Tracer_20Rnd">
+  </type>
+  <type name="AmmoBox_762x39_20Rnd">
+  </type>
+  <type name="AmmoBox_762x54Tracer_20Rnd">
+  </type>
+  <type name="AmmoBox_762x54_20Rnd">
+  </type>
+  <type name="AmmoBox_9x19_25rnd">
+  </type>
+  <type name="AmmoBox_9x39AP_20Rnd">
+  </type>
+  <type name="AmmoBox_9x39_20Rnd">
+  </type>
+  <type name="Ammo_12gaPellets">
+  </type>
+  <type name="Ammo_12gaRubberSlug">
+  </type>
+  <type name="Ammo_12gaSlug">
+  </type>
+  <type name="Ammo_22">
+  </type>
+  <type name="Ammo_308Win">
+  </type>
+  <type name="Ammo_308WinTracer">
+  </type>
+  <type name="Ammo_357">
+  </type>
+  <type name="Ammo_380">
+  </type>
+  <type name="Ammo_380Rubber">
+  </type>
+  <type name="Ammo_40mm_ChemGas">
+  </type>
+  <type name="Ammo_40mm_Explosive">
+  </type>
+  <type name="Ammo_40mm_Smoke_Black">
+  </type>
+  <type name="Ammo_40mm_Smoke_Green">
+  </type>
+  <type name="Ammo_40mm_Smoke_Red">
+  </type>
+  <type name="Ammo_40mm_Smoke_White">
+  </type>
+  <type name="Ammo_45ACP">
+  </type>
+  <type name="Ammo_45ACPRubber">
+  </type>
+  <type name="Ammo_545x39">
+  </type>
+  <type name="Ammo_545x39Tracer">
+  </type>
+  <type name="Ammo_556x45">
+  </type>
+  <type name="Ammo_556x45Tracer">
+  </type>
+  <type name="Ammo_762x39">
+  </type>
+  <type name="Ammo_762x39Tracer">
+  </type>
+  <type name="Ammo_762x54">
+  </type>
+  <type name="Ammo_762x54Tracer">
+  </type>
+  <type name="Ammo_9x19">
+  </type>
+  <type name="Ammo_9x19Rubber">
+  </type>
+  <type name="Ammo_9x39">
+  </type>
+  <type name="Ammo_9x39AP">
+  </type>
+  <type name="Ammo_Flare">
+  </type>
+  <type name="Ammo_FlareBlue">
+  </type>
+  <type name="Ammo_FlareGreen">
+  </type>
+  <type name="Ammo_FlareRed">
+  </type>
+  <type name="Ammo_HuntingBolt">
+  </type>
+  <type name="Ammo_ImprovisedBolt_1">
+  </type>
+  <type name="Ammo_ImprovisedBolt_2">
+  </type>
+</spawnabletypes>
