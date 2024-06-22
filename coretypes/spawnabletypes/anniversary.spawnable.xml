@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <damage min="0.00" max="0.00" />
+    <type name="AnniversaryBox">
+    </type>
+    <type name="Anniversary_FireworksLauncher">
+    </type>
+</spawnabletypes>

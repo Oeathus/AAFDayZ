@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+    <damage min="0.0" max="0.0" />
+    <type name="BearPelt">
+    </type>
+    <type name="BearSteakMeat">
+    </type>
+    <type name="BoarSteakMeat">
+    </type>
+    <type name="ChickenFeather">
+    </type>
+    <type name="ChickenBreastMeat">
+    </type>
+    <type name="CowPelt">
+    </type>
+    <type name="CowSteakMeat">
+    </type>
+    <type name="DeadChicken_Brown">
+    </type>
+    <type name="DeadChicken_Spotted">
+    </type>
+    <type name="DeadChicken_White">
+    </type>
+    <type name="DeadRabbit">
+    </type>
+    <type name="DeadRooster">
+    </type>
+    <type name="DeerPelt">
+    </type>
+    <type name="DeerSteakMeat">
+    </type>
+    <type name="GoatPelt">
+    </type>
+    <type name="GoatSteakMeat">
+    </type>
+    <type name="Guts">
+    </type>
+    <type name="HumanSteakMeat">
+    </type>
+    <type name="Lard">
+    </type>
+    <type name="PigPelt">
+    </type>
+    <type name="PigSteakMeat">
+    </type>
+    <type name="RabbitPelt">
+    </type>
+    <type name="RabbitLegMeat">
+    </type>
+    <type name="SheepPelt">
+    </type>
+    <type name="SheepSteakMeat">
+    </type>
+    <type name="SmallGuts">
+    </type>
+    <type name="WildboarPelt">
+    </type>
+    <type name="WolfPelt">
+    </type>
+    <type name="WolfSteakMeat">
+    </type>
+</spawnabletypes>
