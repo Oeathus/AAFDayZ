@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-
+    <damage min="0.3" max="0.59" />
+    <type name="Cauldron">
+    </type>
+    <type name="PunchedCard">
+        <damage min="0.0" max="0.0" />
+    </type>
+    <type name="EasterEgg">
+        <damage min="0.0" max="0.0" />
+    </type>
 </spawnabletypes>
