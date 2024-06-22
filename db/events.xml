@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-  <event name="VehicleRFWC_Watercraft">
-    <nominal>7</nominal>
-    <min>4</min>
-    <max>10</max>
-    <lifetime>300</lifetime>
-    <restock>3</restock>
-    <saferadius>500</saferadius>
-    <distanceradius>500</distanceradius>
-    <cleanupradius>200</cleanupradius>
-    <flags deletable="0" init_random="0" remove_damaged="1"/>
-    <position>fixed</position>
-    <limit>mixed</limit>
-    <active>1</active>
-    <children>
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Whaler" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat_Rusty" />
-      <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Black" />
-      <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Orange" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Red" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Black" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Camo" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
-      <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
-    </children>
-  </event>
-  <event name="Vehicle_vg7_scorpion">
+    <event name="VehicleRFWC_Watercraft">
+        <nominal>7</nominal>
+        <min>4</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>3</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Whaler" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat_Rusty" />
+        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Black" />
+        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Orange" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Red" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Black" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Camo" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
+        </children>
+    </event>
+    <event name="Vehicle_vg7_scorpion">
         <nominal>7</nominal>
         <min>5</min>
         <max>15</max>
@@ -45,7 +45,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="vg7_scorpion_scorcher"/>
         </children>
     </event>
-  <event name="VehicleRFFSHeli_Bo105m">
+    <event name="VehicleRFFSHeli_Bo105m">
         <nominal>3</nominal> <!-- Glingska Airfeild, Zalesie and Sitnik -->
         <min>3</min>
         <max>3</max>
@@ -62,8 +62,7 @@
             <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_Bo105m"/>
         </children>
     </event>
-
- <event name="VehicleRFFSHeli_LittleBird">
+    <event name="VehicleRFFSHeli_LittleBird">
         <nominal>3</nominal> <!-- Glingska Airfeild, Dolnik and Krsnik -->
         <min>3</min>
         <max>3</max>
@@ -80,8 +79,7 @@
             <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_LittleBird"/>
         </children>
     </event>
-
-     <event name="VehicleRFFSHeli_Bell429">
+    <event name="VehicleRFFSHeli_Bell429">
         <nominal>3</nominal> <!-- Glingska Airfeild, Swarog and Lembork -->
         <min>3</min>
         <max>3</max>
@@ -98,8 +96,7 @@
             <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_Bell429"/>
         </children>
     </event>
-
-     <event name="VehicleRFFSHeli_Ka26">
+    <event name="VehicleRFFSHeli_Ka26">
         <nominal>3</nominal> <!-- Glingska Airfeild, Dolnik and Edge of Map, North of Grabin -->
         <min>3</min>
         <max>3</max>
