@@ -37,6 +37,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     </defaults>
 
     <ce folder="coretypes/spawnabletypes">
+        <file name="ammo.spawnable.xml" type="spawnabletypes" />
         <file name="bag.spawnable.xml" type="spawnabletypes" />
         <file name="container.spawnable.xml" type="spawnabletypes" />
         <file name="item.spawnable.xml" type="spawnabletypes" />
