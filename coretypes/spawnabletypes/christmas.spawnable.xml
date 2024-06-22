@@ -23,7 +23,6 @@
     <damage min="0.0" max="0.0" />
   </type>
   <type name="GiftWrapPaper">
-    <damage min="0.00" max="0.3" />
   </type>
   <type name="GiftBox_Small_1">
     <cargo preset="Xmas_Clothes_Small" />

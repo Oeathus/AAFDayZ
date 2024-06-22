@@ -94,8 +94,10 @@
   <type name="Ammo_380Rubber">
   </type>
   <type name="Ammo_40mm_ChemGas">
+    <damage min="0.0" max="0.35" />
   </type>
   <type name="Ammo_40mm_Explosive">
+    <damage min="0.0" max="0.35" />
   </type>
   <type name="Ammo_40mm_Smoke_Black">
   </type>
