@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="Armband_Altis">
+    </type>
+    <type name="Armband_APA">
+    </type>
+    <type name="Armband_BabyDeer">
+    </type>
+    <type name="Armband_Bear">
+    </type>
+    <type name="Armband_Black">
+    </type>
+    <type name="Armband_Blue">
+    </type>
+    <type name="Armband_Bohemia">
+    </type>
+    <type name="Armband_BrainZ">
+    </type>
+    <type name="Armband_Cannibals">
+    </type>
+    <type name="Armband_CDF">
+    </type>
+    <type name="Armband_Chedaki">
+    </type>
+    <type name="Armband_CHEL">
+    </type>
+    <type name="Armband_Chernarus">
+    </type>
+    <type name="Armband_CMC">
+    </type>
+    <type name="Armband_Crook">
+    </type>
+    <type name="Armband_DayZ">
+    </type>
+    <type name="Armband_Green">
+    </type>
+    <type name="Armband_HunterZ">
+    </type>
+    <type name="Armband_Livonia">
+    </type>
+    <type name="Armband_LivoniaArmy">
+    </type>
+    <type name="Armband_LivoniaPolice">
+    </type>
+    <type name="Armband_NAPA">
+    </type>
+    <type name="Armband_NSahrani">
+    </type>
+    <type name="Armband_Orange">
+    </type>
+    <type name="Armband_Pink">
+    </type>
+    <type name="Armband_Pirates">
+    </type>
+    <type name="Armband_Red">
+    </type>
+    <type name="Armband_Refuge">
+    </type>
+    <type name="Armband_Rex">
+    </type>
+    <type name="Armband_Rooster">
+    </type>
+    <type name="Armband_RSTA">
+    </type>
+    <type name="Armband_Snake">
+    </type>
+    <type name="Armband_SSahrani">
+    </type>
+    <type name="Armband_TEC">
+    </type>
+    <type name="Armband_UEC">
+    </type>
+    <type name="Armband_White">
+    </type>
+    <type name="Armband_Wolf">
+    </type>
+    <type name="Armband_Yellow">
+    </type>
+    <type name="Armband_Zagorky">
+    </type>
+    <type name="Armband_Zenit">
+    </type>
+    <type name="Flag_Altis">
+    </type>
+    <type name="Flag_APA">
+    </type>
+    <type name="Flag_BabyDeer">
+    </type>
+    <type name="Flag_Bear">
+    </type>
+    <type name="Flag_Bohemia">
+    </type>
+    <type name="Flag_BrainZ">
+    </type>
+    <type name="Flag_Cannibals">
+    </type>
+    <type name="Flag_CDF">
+    </type>
+    <type name="Flag_CHEL">
+    </type>
+    <type name="Flag_Chedaki">
+    </type>
+    <type name="Flag_Chernarus">
+    </type>
+    <type name="Flag_CMC">
+    </type>
+    <type name="Flag_Crook">
+    </type>
+    <type name="Flag_DayZ">
+    </type>
+    <type name="Flag_HunterZ">
+    </type>
+    <type name="Flag_Livonia">
+    </type>
+    <type name="Flag_LivoniaArmy">
+    </type>
+    <type name="Flag_LivoniaPolice">
+    </type>
+    <type name="Flag_NAPA">
+    </type>
+    <type name="Flag_NSahrani">
+    </type>
+    <type name="Flag_Pirates">
+    </type>
+    <type name="Flag_Refuge">
+    </type>
+    <type name="Flag_Rex">
+    </type>
+    <type name="Flag_Rooster">
+    </type>
+    <type name="Flag_RSTA">
+    </type>
+    <type name="Flag_SSahrani">
+    </type>
+    <type name="Flag_Snake">
+    </type>
+    <type name="Flag_TEC">
+    </type>
+    <type name="Flag_UEC">
+    </type>
+    <type name="Flag_White">
+    </type>
+    <type name="Flag_Wolf">
+    </type>
+    <type name="Flag_Zagorky">
+    </type>
+    <type name="Flag_Zenit">
+    </type>
+</spawnabletypes>
