@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <damage min="0.30" max="0.75" />
+    <type name="wolffurcowl_mung">
+    </type>
+    <type name="bearfurcowl_mung">
+    </type>
+    <type name="bearhead_mung">
+    </type>
+    <type name="playerhead_mung">
+    </type>
+    <type name="nbc_longcoat_mung">
+    </type>
+    <type name="WoodAxe_mung">
+    </type>
+    <type name="makeshifttent2_mung_Deployed">
+    </type>
+    <type name="makeshifttent2_mung">
+    </type>
+    <type name="jaakari_simple_tan_mung">
+    </type>
+    <type name="jaakari_simple_black_mung">
+    </type>
+    <type name="jaakari_simple_camo_mung">
+    </type>
+    <type name="jaakari_simple_brown_mung">
+    </type>
+    <type name="jaakari_tan_mung">
+    </type>
+    <type name="jaakari_black_mung">
+    </type>
+    <type name="jaakari_camo_mung">
+    </type>
+    <type name="jaakari_brown_mung">
+    </type>
+    <type name="sleepingbag_green_mung">
+    </type>
+    <type name="sleepingbag_red_mung">
+    </type>
+    <type name="sleepingbag_yellow_mung">
+    </type>
+    <type name="sleepingbag_blue_mung">
+    </type>
+    <type name="sleepingbag_green_mung_Deployed">
+    </type>
+    <type name="sleepingbag_red_mung_Deployed">
+    </type>
+    <type name="sleepingbag_yellow_mung_Deployed">
+    </type>
+    <type name="sleepingbag_blue_mung_Deployed">
+    </type>
+    <type name="poncho_camo_mung">
+    </type>
+    <type name="meleesling_colorbase_mung">
+    </type>
+    <type name="meleesling_black_mung">
+    </type>
+    <type name="riflesling_colorbase_mung">
+    </type>
+    <type name="riflesling_black_mung">
+    </type>
+    <type name="thermos_mung">
+    </type>
+    <type name="dutchoven_mung">
+    </type>
+    <type name="baseballbatbarb_mung">
+    </type>
+    <type name="izh54_sawnoff_mung">
+    </type>
+    <type name="sushiknife_mung">
+    </type>
+    <type name="castironpan_mung">
+    </type>
+    <type name="dappercane_mung">
+    </type>
+    <type name="dapperhat_mung">
+    </type>
+    <type name="victorian_glasses_pink_mung">
+    </type>
+    <type name="victorian_glasses_galaxy_mung">
+    </type>
+    <type name="victorian_glasses_black_mung">
+    </type>
+    <type name="victorian_glasses_blue_mung">
+    </type>
+    <type name="victorian_glasses_yellow_mung">
+    </type>
+    <type name="victorian_glasses_white_mung">
+    </type>
+    <type name="makeshifttent_mung_Deployed">
+    </type>
+    <type name="makeshifttent_mung">
+    </type>
+    <type name="gunwalldisplay_mung">
+    </type>
+    <type name="gunwall_kit_mung">
+    </type>
+    <type name="gunwalldisplay_metal_mung">
+    </type>
+    <type name="gunwall_metal_kit_mung">
+    </type>
+    <type name="clownmask_mung">
+    </type>
+    <type name="strawhat_mung">
+    </type>
+    <type name="jesterhat_mung">
+    </type>
+    <type name="bandana_mung">
+    </type>
+    <type name="guitar_mung">
+    </type>
+    <type name="teddyhead_mung">
+    </type>
+    <type name="ballgrill_mung">
+    </type>
+    <type name="izh54_mung">
+    </type>
+    <type name="diana_m27_mung">
+    </type>
+    <type name="bowieknife_mung">
+    </type>
+    <type name="shawl_yellow_mung">
+    </type>
+    <type name="shawl_red_mung">
+    </type>
+    <type name="shawl_templar_mung">
+    </type>
+    <type name="shawl_palestini_mung">
+    </type>
+    <type name="shawl_black_mung">
+    </type>
+    <type name="shawl_floral_mung">
+    </type>
+    <type name="dollmask_mung">
+    </type>
+    <type name="weldinggoggles_mung">
+    </type>
+    <type name="dappervest_mung">
+    </type>
+    <type name="kv5_mung">
+    </type>
+    <type name="dynamitestick_Mung">
+    </type>
+    <type name="bikervest_mung">
+    </type>
+    <type name="zenitco_pt3_buttstock_mung">
+    </type>
+    <type name="lebedev_PL15_mung">
+    </type>
+    <type name="Mag_lebedev_PL15_16Rnd">
+    </type>
+    <type name="carrierrig_mung">
+    </type>
+    <type name="Hikingbagmung_pink">
+    </type>
+    <type name="Hikingbagmung_meow">
+    </type>
+    <type name="Hikingbagmung_snow">
+    </type>
+    <type name="rifleholster_black_mung">
+    </type>
+    <type name="rifleholster_tan_mung">
+    </type>
+    <type name="rifleholster_snow_mung">
+    </type>
+    <type name="rifleholster_TTsKO_mung">
+    </type>
+    <type name="rifleholster_leatherengraved_mung">
+    </type>
+    <type name="Leupold_mung">
+    </type>
+    <type name="bag_6B38_Snow_mung">
+    </type>
+    <type name="Decoygrenade_mung">
+    </type>
+    <type name="hardigg_Mung">
+    </type>
+    <type name="hardigg2_Mung">
+    </type>
+    <type name="stielhandgranate_mung">
+    </type>
+    <type name="rifleholster_camo_mung">
+    </type>
+    <type name="tacvest_mung">
+    </type>
+    <type name="rifleholster_camo_ucp_mung">
+    </type>
+    <type name="bag_6B38_camo_mung">
+    </type>
+    <type name="bag_6B38_black_mung">
+    </type>
+    <type name="bag_6B38_LETO_mung">
+    </type>
+    <type name="oxygentankrig_mung">
+    </type>
+    <type name="shovel_Mung">
+    </type>
+    <type name="cricket_bat_mung">
+    </type>
+    <type name="baseballbatsaw_mung">
+    </type>
+    <type name="woodenhammer_mung">
+    </type>
+    <type name="RollingPapers_Jest">
+    </type>
+    <type name="hannibal_mask_mung">
+    </type>
+    <type name="joint_mung">
+    </type>
+    <type name="cigarette_mung">
+    </type>
+    <type name="cigar_mung">
+    </type>
+    <type name="vinegar_mung">
+    </type>
+    <type name="ketchup_mung">
+    </type>
+    <type name="Vesuri_mung">
+    </type>
+    <type name="brain_Mung">
+    </type>
+    <type name="sherlockpipe_mung">
+    </type>
+    <type name="Clawhammer_mung">
+    </type>
+    <type name="mag3_gasmask_mung">
+    </type>
+    <type name="csmcmillan_mung">
+    </type>
+    <type name="Mag_cs5_10Rnd_mung">
+    </type>
+    <type name="mcmillan_buttstock">
+    </type>
+    <type name="pickles_closed">
+    </type>
+    <type name="Zippo_mung">
+    </type>
+    <type name="fannypack_pink_mung">
+    </type>
+    <type name="fannypack_black_mung">
+    </type>
+    <type name="fannypack_camo_mung">
+    </type>
+    <type name="fannypack_multi_mung">
+    </type>
+    <type name="Hikingbagmung_white">
+    </type>
+    <type name="Hikingbagmung_yellow">
+    </type>
+    <type name="Hikingbagmung_red">
+    </type>
+    <type name="Hikingbagmung_blue">
+    </type>
+    <type name="Hikingbagmung_green">
+    </type>
+    <type name="Hikingbagmung_black">
+    </type>
+    <type name="Hikingbagmung_camo">
+    </type>
+    <type name="katana_Mung">
+    </type>
+    <type name="Lennon_glasses_pink_mung">
+    </type>
+    <type name="Lennon_glasses_galaxy_mung">
+    </type>
+    <type name="Lennon_glasses_black_mung">
+    </type>
+    <type name="Lennon_glasses_blue_mung">
+    </type>
+    <type name="Lennon_glasses_yellow_mung">
+    </type>
+    <type name="Lennon_glasses_white_mung">
+    </type>
+    <type name="m52helmet_mung">
+    </type>
+    <type name="maglite_mung">
+    </type>
+    <type name="Airam_mung">
+    </type>
+    <type name="oillamp_mung">
+    </type>
+    <type name="SAK_Mung">
+    </type>
+    <type name="sandwich_mung">
+    </type>
+    <type name="Scythe_Mung">
+    </type>
+    <type name="simplebackpack_blue_mung">
+    </type>
+    <type name="simplebackpack_camoblack_mung">
+    </type>
+    <type name="simplebackpack_green_mung">
+    </type>
+    <type name="simplebackpack_redpink_mung">
+    </type>
+    <type name="simplebackpack_redyellow_mung">
+    </type>
+    <type name="stalker_gasmask_white_mung">
+    </type>
+    <type name="stalker_gasmask_black_mung">
+    </type>
+    <type name="wonderbread_mung">
+    </type>
+    <type name="Nagant1895_mung">
+    </type>
+    <type name="Gewehr43_mung">
+    </type>
+    <type name="Mag_gewehr43_10Rnd_mung">
+    </type>
+</spawnabletypes>
